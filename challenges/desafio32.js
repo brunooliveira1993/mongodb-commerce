@@ -1,6 +1,6 @@
 db.produtos.find({
   vendidos: {
-    $mod: [5, 0]
+    $mod: [5, 0],
   },
   }, {
   nome: true,
