@@ -18,6 +18,7 @@
   
   - Individual;
   - `1` dias de projeto;
+  - Porcentagem de requisitos entrgues 100%
 
 </details>
 
