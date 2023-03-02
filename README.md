@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <strong>👨‍💻 O que deverá ser desenvolvido</strong>
+    <strong>👨‍💻 O que foi desenvolvido</strong>
   </summary><br>
 
   Agora que você já aprendeu **MongoDB**, chegou a hora de praticar todos os conceitos ensinados até aqui por meio do projeto _commerce_!
