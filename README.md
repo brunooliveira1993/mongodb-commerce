@@ -4,10 +4,10 @@
   <summary>
     <strong>👨‍💻 O que foi desenvolvido</strong>
   </summary><br>
+  
+  O projeto foi desenvolvido durante o curso da Trybe com objetivo de colocar em prática conceitos de desenvolvimento Back-end com o banco de dados MongoDB.
 
-  Agora que você já aprendeu **MongoDB**, chegou a hora de praticar todos os conceitos ensinados até aqui por meio do projeto _commerce_!
-
-  Nesse projeto, você vai trabalhar com o banco de dados `commerce`, que contém dados do cardápio do **McDonald's**, como ingredientes, valores nutricionais e dados fictícios de vendas. As instruções de como restaurar o banco podem ser lidas a seguir.
+  Nesse projeto, trabalhamos com o banco de dados `commerce`, que contém dados do cardápio do **McDonald's**, como ingredientes, valores nutricionais e dados fictícios de vendas. As instruções de como restaurar o banco podem ser lidas a seguir.
 
 </details>
 
@@ -16,8 +16,8 @@
     <strong>🗓 Prazo de Entrega</strong>
   </summary><br>
   
-  - Este projeto é individual;
-  - Serão `1` dias de projeto;
+  - Individual;
+  - `1` dias de projeto;
 
 </details>
 
